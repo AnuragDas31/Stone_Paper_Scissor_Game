@@ -1,1 +1,2 @@
 # Stone_Paper_Scissor_Game
+This is a Front-end project using HTML, CSS and JavaScript which is like the traditional Stone-Paper-Scissor Game wherein the user gets to choose either of the three options and the computer randomly selects either and based on who wins the score keeps updating. The structure is made with the help of HTML and styling by CSS whereas the logic is built using JavaScript language.
